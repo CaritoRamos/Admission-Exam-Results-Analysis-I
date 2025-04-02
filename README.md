@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Resultados del Examen de Admisión
+# Proyecto de Análisis de Resultados del Examen de Admisión de una universidad pública de Lima
 
 ## Web Scraping con Selenium en Python  
 Automatizando la extracción de los resultados del examen  
