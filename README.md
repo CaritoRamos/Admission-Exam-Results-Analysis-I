@@ -1,24 +1,26 @@
-# Proyecto de Análisis de Resultados del Examen de Admisión de una universidad pública de Lima
+# **Admission Exam Results Analysis I – Public University in Lima**  
 
-## Web Scraping con Selenium en Python  
-Automatizando la extracción de los resultados del examen  
+## **Project Overview**  
+This project analyzes the admission exam results for the 2025-I intake of the UNMSM, Peru's oldest and most prestigious public university. The data was obtained through Web Scraping from the university's official website, which provides public access to exam results.  
+By extracting, processing, and visualizing this data, the project aims to uncover key insights into applicant performance, career competitiveness, and score distribution.  
 
-- Acceso a la página principal donde se listan todas las carreras.  
-- Navegación automática a cada enlace de carrera para extraer resultados.  
-- Extracción de datos desde las tablas, gestionando la paginación.  
-- Manejo de errores para evitar interrupciones si una carrera no carga correctamente.  
-- Almacenamiento estructurado de los datos para su posterior análisis.  
+## **Web Scraping with Selenium in Python**  
+### Automating the extraction of exam results:  
+- Accessing the main page listing all academic programs.  
+- Automatically navigating to each program’s link to extract results.  
+- Extracting data from tables while handling pagination.  
+- Implementing error handling to prevent disruptions if a program page fails to load.  
+- Structuring and storing data for further analysis.  
 
-## Data Wrangling en Python para mejorar la calidad de los datos  
-- Corrección de formatos.  
-- Creación de nuevas columnas para optimizar el análisis.  
-- Estandarización de variables como nombres de categorías y sedes.  
+## **Data Wrangling in Python to Enhance Data Quality**  
+- Formatting corrections.  
+- Creating new columns to optimize analysis.  
+- Standardizing variables such as category names and campus locations.  
 
-## Análisis y Visualización en Power BI  
-Con los datos limpios, desarrollé un dashboard en Power BI para extraer insights clave sobre el rendimiento de los postulantes.  
-
-- **Puntajes mínimos y máximos** por carrera y a nivel general.  
-- **Ranking de las 10 escuelas profesionales** con los mayores puntajes obtenidos.  
-- **Cantidad total de postulantes vs. ingresantes**, diferenciado por carrera.  
-- **Orden de mérito global** del examen, basado en los puntajes obtenidos.  
-- **Filtros interactivos** para analizar tendencias según facultad y modalidad de ingreso. 
+## **Analysis & Visualization in Power BI**  
+With clean data, I developed a **Power BI dashboard** to uncover key insights into applicant performance:  
+- Minimum and maximum scores per program and overall.  
+- Ranking of the **top 10 programs** with the highest scores.  
+- Total applicants vs. admitted students, categorized by program.  
+- Global ranking based on exam scores.  
+- Interactive filters to analyze trends by faculty and admission type.  
