@@ -1,4 +1,4 @@
-# **Admission Exam Results Analysis I – Public University in Lima**  
+# **Admission Exam Results Analysis – Public University in Lima**  
 
 ## **Project Overview**  
 This project analyzes the admission exam results for the 2025-I intake of the UNMSM, Peru's oldest and most prestigious public university. The data was obtained through Web Scraping from the university's official website, which provides public access to exam results.  
